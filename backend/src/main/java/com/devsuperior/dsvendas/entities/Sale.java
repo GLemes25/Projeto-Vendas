@@ -1,6 +1,5 @@
 package com.devsuperior.dsvendas.entities;
 
-//Diferença entre javax e jakarta
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
