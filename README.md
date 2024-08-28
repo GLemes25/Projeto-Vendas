@@ -1,5 +1,7 @@
 ## Anotations Utilizadas nas Entidades
 
+SDS_05 EP2  (01:07)
+
 ### Lombok
 
 - **`@Data`**:

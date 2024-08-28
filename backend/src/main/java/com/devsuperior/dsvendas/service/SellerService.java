@@ -16,6 +16,6 @@ public class SellerService {
 
     public List<SellerDTO> findAll() {
         List<Seller> result = repository.findAll();
-        return result.stream().map(SellerDTO::new) .toList();
+        return result.stream().map(SellerDTO::new).toList();
     }
 }
